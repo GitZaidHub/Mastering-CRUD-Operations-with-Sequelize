@@ -1,0 +1,25 @@
+{
+  "name": "mastering-crud-operations-with-sequelize",
+  "version": "1.0.0",
+  "description": "Learn how to perform CRUD (Create, Read, Update, Delete) operations using Sequelize ORM with Node.js and MySQL.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/GitZaidHub/Mastering-CRUD-Operations-with-Sequelize.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "commonjs",
+  "bugs": {
+    "url": "https://github.com/GitZaidHub/Mastering-CRUD-Operations-with-Sequelize/issues"
+  },
+  "homepage": "https://github.com/GitZaidHub/Mastering-CRUD-Operations-with-Sequelize#readme",
+  "dependencies": {
+    "mysql2": "^3.22.5",
+    "sequelize": "^6.37.8"
+  }
+}
